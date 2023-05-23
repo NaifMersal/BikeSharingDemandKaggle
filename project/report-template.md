@@ -53,4 +53,4 @@ it takes time to train, so I'll take more time to tune their hyperparameters. Ou
 
 ## Summary
 In summary, we have seen how autogluon(autoML in general) made the process of training ML easier, and how feature engineering can transform the model to the next level(Sometimes obligatory).
-Also, We can see from the graph the importance of separating test and validation sets, and how the models were capturing the noise in data(low validation error vs high test error).   
+Also, We can see from the graph the importance of separating test and validation sets, and how the models were capturing the noise in data(low validation error vs high test error). Anyhow, the model could be better with more tuning and feature engineering. 
